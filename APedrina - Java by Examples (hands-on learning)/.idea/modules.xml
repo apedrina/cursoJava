@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APedrina_-_Java_by_Examples__hands-on_learning_.iml" filepath="$PROJECT_DIR$/.idea/modules/APedrina_-_Java_by_Examples__hands-on_learning_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/introducao/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-introducao.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java Core/string[charAt]/APedrina_-_Java_by_Examples__hands-on_learning_.Java_Core-string[charAt].test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APedrina_-_Java_by_Examples__hands-on_learning_.util.test.iml" />
+    </modules>
+  </component>
+</project>
